@@ -1,0 +1,15 @@
+numpy
+pandas
+seaborn
+matplotlib
+scikit-learn
+tensorflow==2.5.0
+ipykernel
+fastapi
+uvicorn
+python-multipart
+pillow
+tensorflow-serving-api==2.5.0
+opencv-python
+tqdm
+imutils
